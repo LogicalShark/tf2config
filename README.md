@@ -5,5 +5,5 @@ Partially adapted from https://github.com/tsumo/tf2configs/blob/master/README.md
 
 I use m0rehud custom HUD with these changes: 
 - moved the players alive/dead status bar to the lower half of screen  to check easier (TeamStatus attribute in the .res files)
-- increased size of target health cross and hp number for better visual clarity on medic (TargetID attributes in .res files)
+- increased size of target health cross and hp number for better visual clarity on medic (look in SpectatorGUIHealthCross, SpectatorGUIHealth, TargetID)
 - replaced captions for more useful information
